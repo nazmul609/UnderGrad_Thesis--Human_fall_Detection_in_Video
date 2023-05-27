@@ -11,10 +11,11 @@ This repository represents my undergraduate thesis. I have introduced a novel ap
 
 Proposed Architecture (2 stream Fusion):
 
-![architecture](https://github.com/nazmul609/UnderGrad_Thesis/assets/69470912/788f4ee6-f304-446d-b215-670a1f66c284)
-
+![architecture](https://github.com/nazmul609/UnderGrad_Thesis/assets/69470912/5c3e768d-6e87-4df5-9655-309360b8e3dc)
 
 Predicion Samples:
 
-![result](https://github.com/nazmul609/UnderGrad_Thesis/assets/69470912/fd1941dc-5d8f-406a-a82e-79ad91cdfbac)
+
+![result](https://github.com/nazmul609/UnderGrad_Thesis/assets/69470912/af666ffe-74ff-42a5-8b33-e866fc631be1)
+
 
