@@ -8,3 +8,13 @@ Falls are a major concern for the elderly population and can lead to severe inju
 '''
 This repository represents my undergraduate thesis. I have introduced a novel approach for Human Fall detection in videos using two stream three dimensional(3D) Convolutional Neural Network and the evaluation is performed on two of the publicly avialable Le2i and URFD Dataset. 
 '''
+
+Proposed Architecture (2 stream Fusion):
+
+![architecture](https://github.com/nazmul609/UnderGrad_Thesis/assets/69470912/788f4ee6-f304-446d-b215-670a1f66c284)
+
+
+Predicion Samples:
+
+![result](https://github.com/nazmul609/UnderGrad_Thesis/assets/69470912/fd1941dc-5d8f-406a-a82e-79ad91cdfbac)
+
